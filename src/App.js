@@ -1,5 +1,6 @@
 
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import SignupForm from './components/SignupForm';
 
 function App() {
